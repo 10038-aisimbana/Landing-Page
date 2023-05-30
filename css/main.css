@@ -1,0 +1,73 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+body, html {
+    height: 100%;
+    padding:0;
+    margin: 0;
+}
+
+body {
+    background: linear-gradient(rgba(255, 0, 31, 0.65), rgba(255, 115, 0, 0.8)), url(https://www.coliseugeek.com.br/wp-content/uploads/2023/01/f993a-clickwallpapers-microsoft-activision-call-of-duty-modern-warfare-ii-img1-base-scaled-1.jpg);
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+}
+
+.logo {
+    height: 50px;
+    width: 200px;
+    margin-top: 20px;
+}
+
+.text-description {
+    letter-spacing: 2px;
+    font-family: sans-serif;    
+}
+
+.form-control {
+    background: transparent !important;
+    color: #fff !important;
+}
+
+a .fab {
+    color: #ffc;
+    font-size: 30px;
+    margin: 0 10px;
+}
+
+.titulo {
+    color: #404040FF;
+}
+
+.custom-input {
+        color: black;
+    }
+
+.custom-input {
+        color: white;
+        background-color: #333;
+    }
+
+.custom-input::placeholder {
+        color: white;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
